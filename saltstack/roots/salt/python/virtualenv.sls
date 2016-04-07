@@ -1,3 +1,3 @@
-gunicorn:
+python-virtualenv:
   pkg:
     - installed

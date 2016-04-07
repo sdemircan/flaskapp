@@ -1,3 +1,0 @@
-python-flask:
-  pkg:
-    - installed
