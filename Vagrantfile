@@ -78,9 +78,6 @@ Vagrant.configure(2) do |config|
     salt.masterless = true
     salt.minion_config = "saltstack/config/minion"
     salt.run_highstate = true
-
     salt.verbose = true
-
-    salt.run_highstate = true
   end
 end
