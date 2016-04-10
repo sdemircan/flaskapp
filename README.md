@@ -21,7 +21,7 @@ Vagrant Saltstack ile Flask uygulamasının çalışması için gerekli olan ba�
 
 ## Salt Statelerinde Değişiklik Yapılması
 
-Salt stacklerinde değişiklik yaptıktan sonra aşağıdaki komut ile yapılan değişikliklerin sanal sunucunuz üzerinde geçerli olmasını sağlayabilirsiniz:
+Salt statelerinde değişiklik yaptıktan sonra aşağıdaki komut ile yapılan değişikliklerin sanal sunucunuz üzerinde geçerli olmasını sağlayabilirsiniz:
 
 ```sh
 vagrant provision
